@@ -1,0 +1,15 @@
+---
+- name: Install pyenv
+  hosts: all
+  # hosts: "{{ host | default('all') }}"
+  become: false
+  gather_facts: true
+
+  tasks:
+
+    - name: Include pyenv role
+      ansible.builtin.include_role:
+        name: zilux.tools.pyenv
+      vars:
+        pyenv_requested_python_version: "3.12"
+
