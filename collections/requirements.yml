@@ -1,4 +1,4 @@
 ---
-collections:
-  - name: git@github.com:zilux/zilux.tools.git
+ collections:
+   - name: git@github.com:zilux/zilux.tools.git
 
