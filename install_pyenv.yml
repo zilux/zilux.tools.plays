@@ -12,4 +12,3 @@
         name: zilux.tools.pyenv
       vars:
         pyenv_requested_python_version: "3.12"
-
