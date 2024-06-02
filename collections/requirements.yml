@@ -1,5 +1,7 @@
 ---
  collections:
    - name: community.general
-   - name: git+https://github.com:zilux/zilux.tools.git
+   - name: https://github.com:zilux/zilux.tools.git
+     type: git
+     version: main  
 
