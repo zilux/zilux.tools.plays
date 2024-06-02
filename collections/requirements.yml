@@ -2,5 +2,5 @@
  collections:
    - name: community.general
    - name: zilux.tools  
-     source: https://github.com:zilux/zilux.tools.git
+     src: https://github.com:zilux/zilux.tools.git
 
