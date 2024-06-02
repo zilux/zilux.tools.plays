@@ -1,6 +1,5 @@
 ---
  collections:
    - name: community.general
-   - name: zilux.tools  
-     src: git+https://github.com:zilux/zilux.tools.git
+   - name: git+https://github.com:zilux/zilux.tools.git
 
