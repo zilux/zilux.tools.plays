@@ -1,5 +1,4 @@
 ---
  collections:
    - name: community.general
-   - name: git@github.com:zilux/zilux.tools
 
